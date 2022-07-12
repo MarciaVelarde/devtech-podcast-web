@@ -1,0 +1,5 @@
+#Para ignorar archivos .env
+.env
+
+#Para ignorar la carpeta "tareas" sin importar el tipo de archivos que se encuentren dentro
+tareas
